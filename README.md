@@ -3,4 +3,4 @@ Our team designs the finest custom decks, all hand-crafted with love for the bes
 # Custom Apparel
 Visit our store for the latest in Frugal skater style
 # About Frugal
-![Frugal](https://frugalskate.github.io/images/frugal.png)
+![Frugal](https://frugalskate.github.io/images/frugal.jpeg)
